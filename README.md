@@ -1,0 +1,1 @@
+基于THU beamer魔改的中南大学beamer模板
